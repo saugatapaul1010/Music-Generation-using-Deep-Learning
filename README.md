@@ -25,4 +25,4 @@ To sample the model:
 $ python sample.py 100
 ```
 
-Training loss/accuracy is stored in `logs/training_log.csv`.
+Training loss/accuracy is stored in `logs/training_log.csv
